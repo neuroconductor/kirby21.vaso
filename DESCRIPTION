@@ -1,13 +1,13 @@
 Package: kirby21.vaso
 Type: Package
-Title: Example VASO Data from the Multi-Modal MRI
-       Reproducibility Resource
-Version: 1.4
+Title: Example VASO Data from the Multi-Modal MRI Reproducibility
+        Resource
+Version: 1.4.1
 Date: 2016-09-15
 Author: John Muschelli <muschellij2@gmail.com>
 Maintainer: John Muschelli <muschellij2@gmail.com>
-Description: VASO magnetic resonance imaging ('MRI') data
-       from the 'Kirby21' reproducibility study.
+Description: VASO magnetic resonance imaging ('MRI') data from the
+        'Kirby21' reproducibility study.
 License: GPL-2
 Imports: kirby21.base
 RoxygenNote: 5.0.1.9000
