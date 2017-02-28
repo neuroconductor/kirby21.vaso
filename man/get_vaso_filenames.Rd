@@ -19,4 +19,3 @@ Return the filenames for the VASO images
 \examples{
 get_vaso_filenames()
 }
-
