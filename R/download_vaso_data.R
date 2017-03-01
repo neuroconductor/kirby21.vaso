@@ -5,10 +5,8 @@
 #' \code{modalities = "VASO"} so it cannot be specified
 #' @return Indicator if the data is downloaded.
 #' 
-#' @examples
-#' download_vaso_data()
 #' @export
-#' @importFrom kirby21.base download_kirby21_data
+#' @importFrom kirby21.base download_kirby21_data all_modalities
 download_vaso_data =  function(...) {  
   x = kirby21.base::download_kirby21_data(modality = "VASO", ...)
   return(x)
